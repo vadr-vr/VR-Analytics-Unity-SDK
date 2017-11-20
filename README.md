@@ -16,10 +16,10 @@ VadR VR Analytics offers
 
 3. Powerful Visualization - VadR's powerful visualization helps in understanding the immense data generated in VR very easy. Heatmaps overlaid on 3D model of your VR world gives holistic view into users’ mind. Graphs help you to get the quantitative information.
 
-4. Customisable - VadR SDK is very easy and intuitive to customise. Regiter any custom data you need for your application.
+4. Customisable - VadR SDK is very easy and intuitive to customise. Register any custom data you need for your application.
 
-Please visit https://www.vadrnet.com to know more about VadR.
+Please visit https://www.vadr.io to know more about VadR.
 
 ### Documentation
 
-Please refer to https://www.vadrnet.com/document/analytics/ for the documentation.
+Please refer to https://www.vadr.io/document/analytics/ for the documentation.
